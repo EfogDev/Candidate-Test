@@ -1,7 +1,7 @@
-Goal:
+* Goal:
 To get this project working (fix all errors).
 
-Requirements:
+* Requirements:
 Do not remove existing code.
 Editing and adding code is acceptable.
 
